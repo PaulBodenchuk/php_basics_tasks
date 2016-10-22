@@ -1,7 +1,3 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Павел
- * Date: 20.10.2016
- * Time: 12:46
- */
+echo " win+cmd , или shell в XAMPP Выполнить в консоли: php.exe адрес_файла/<ФАЙЛ php"
+?>
